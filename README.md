@@ -1,6 +1,8 @@
 Programa para realizar busquedas de un listado de peliculas de DC.
 Alumno: Juan Tomás Saez Ferreira
 
+Los resultados estan en consola porque no se veía bien sino.
+
 Funciones de sorteamiento no estan hechas, las deje planteadas sin resolver.
 
 Funciones de busqueda funcuionan correctamente.
